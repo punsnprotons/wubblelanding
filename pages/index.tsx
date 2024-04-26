@@ -15,7 +15,12 @@ const WubbleLandingPage: NextPage = () => {
     <div className={styles.wubbleLandingPage}>
       
        <section className={styles.wubblelandingvideo1}>
-    
+       {isClient && (
+          <video id="main-video" className={styles.videoPlayer} autoPlay muted loop style={{ width: '100vw' }}>
+            <source src="/landingpagevideo.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+        )}
       </section>
       <img
         className={styles.logoIcon}
