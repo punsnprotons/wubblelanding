@@ -1,0 +1,453 @@
+.wubblelandingvideo1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 832px;
+}
+.logoIcon {
+  width: 160px;
+  height: 158px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.musicIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: rgba(251, 7, 245, 0.7);
+  width: 167px;
+  z-index: 1;
+}
+.royaltyFree {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  z-index: 3;
+}
+.musicThatIs {
+  width: 240.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: -223px;
+  font-weight: 600;
+  color: #f5f5f5;
+  display: inline-block;
+  z-index: 4;
+}
+.musicDescription {
+  position: absolute;
+  top: 11px;
+  left: 13px;
+  width: 187px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.musicFeature {
+  height: 51px;
+  width: 200px;
+  position: relative;
+}
+.itemShapes {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: rgba(8, 207, 248, 0.7);
+  width: 184px;
+  z-index: 1;
+}
+.personalized {
+  position: absolute;
+  top: 11px;
+  left: 16px;
+  font-weight: 600;
+  display: inline-block;
+  width: 187px;
+  z-index: 2;
+}
+.detailItems {
+  height: 51px;
+  width: 219px;
+  position: relative;
+  margin-left: -16px;
+}
+.frameChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: rgba(22, 112, 232, 0.7);
+  width: 197px;
+  z-index: 1;
+}
+.instantaenous {
+  position: absolute;
+  top: 11px;
+  left: 15px;
+  font-weight: 600;
+  display: inline-block;
+  width: 199px;
+  z-index: 2;
+}
+.rectangleParent {
+  height: 51px;
+  flex: 0.9304;
+  position: relative;
+  min-width: 149px;
+  margin-left: -16px;
+}
+.frameItem {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: rgba(248, 19, 79, 0.7);
+  width: 146px;
+  z-index: 1;
+}
+.intelligent {
+  position: absolute;
+  top: 11px;
+  left: 11px;
+  font-weight: 600;
+  display: inline-block;
+  width: 219px;
+  z-index: 2;
+}
+.rectangleGroup {
+  height: 51px;
+  flex: 1;
+  position: relative;
+  min-width: 149px;
+  margin-left: -16px;
+  text-align: left;
+  font-size: 25px;
+  color: #fff;
+  font-family: Raleway;
+}
+.detailList {
+  width: 831px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  row-gap: 20px;
+}
+.placeholder {
+  height: 100%;
+  width: 209px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: -89px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: rgba(253, 147, 5, 0.7);
+  z-index: 1;
+}
+.detailListParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  position: relative;
+  max-width: 100%;
+}
+.signupContainer1 {
+  height: 64px;
+  width: 812px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: rgba(255, 254, 254, 0.9);
+  display: none;
+  max-width: 100%;
+}
+.signupText {
+  width: 381px;
+  position: absolute;
+  margin: 0 !important;
+  top: 10.8px;
+  left: -352px;
+  line-height: 17.8px;
+  display: inline-block;
+  z-index: 1;
+}
+.emailContainer {
+  height: 42px;
+  width: 290px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: rgba(255, 254, 254, 0.9);
+  display: none;
+}
+.placeholdertext {
+  height: 13.4px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 1;
+}
+.inputbox,
+.signupForm {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inputbox {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: rgba(255, 254, 254, 0.9);
+  padding: 9.5px 14px 19.1px;
+  z-index: 2;
+  color: rgba(0, 0, 0, 0.37);
+}
+.signupForm {
+  width: 290px;
+  position: relative;
+}
+.buttonContainer {
+  height: 42px;
+  width: 120px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: #ff5800;
+  display: none;
+}
+.buttonText {
+  position: relative;
+  font-size: 20px;
+  font-family: "Radio Canada";
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  min-width: 83px;
+  z-index: 1;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 8.8px 13px 9.5px 24px;
+  background-color: #ff5800;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 1;
+}
+.button:hover {
+  background-color: #e63d00;
+}
+.featureDetails,
+.features,
+.signupContainer {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.signupContainer {
+  width: 812px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: rgba(255, 254, 254, 0.9);
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 11px 6px;
+  box-sizing: border-box;
+  gap: 27px;
+  z-index: 1;
+  font-size: 20px;
+  color: #151515;
+  font-family: "Radio Canada";
+}
+.featureDetails,
+.features {
+  justify-content: flex-start;
+}
+.featureDetails {
+  width: 989px;
+  flex-direction: column;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 26px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.features {
+  align-self: stretch;
+  flex-direction: row;
+}
+.comingSoonText,
+.loudIcon {
+  position: relative;
+  z-index: 1;
+}
+.comingSoonText {
+  width: 187px;
+  font-weight: 600;
+  display: inline-block;
+}
+.loudIcon {
+  height: 40px;
+  width: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.soundSetting {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.announcement,
+.comingSoon {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.comingSoon {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.announcement {
+  width: 709px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 8px 35px;
+  box-sizing: border-box;
+}
+.quietIcon {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.featuresParent {
+  height: 288px;
+  width: 1039px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 28px;
+  box-sizing: border-box;
+  gap: 26px;
+  max-width: 100%;
+}
+.mainContent,
+.wubbleLandingPage {
+  display: flex;
+  align-items: flex-start;
+}
+.mainContent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  max-width: 100%;
+  text-align: left;
+  font-size: 25px;
+  color: #fff;
+  font-family: Raleway;
+}
+.wubbleLandingPage {
+  width: 100%;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.7);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 40px 16px 0 38px;
+  box-sizing: border-box;
+  gap: 346px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .rectangleGroup,
+  .rectangleParent {
+    flex: 1;
+  }
+  .detailList {
+    flex-wrap: wrap;
+  }
+  .featuresParent {
+    height: auto;
+  }
+}
+@media screen and (max-width: 650px) {
+  .signupContainer {
+    flex-wrap: wrap;
+  }
+  .wubbleLandingPage {
+    gap: 173px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .instantaenous,
+  .intelligent,
+  .musicThatIs,
+  .personalized,
+  .royaltyFree {
+    font-size: 20px;
+  }
+  .signupText {
+    line-height: 14px;
+  }
+  .placeholdertext,
+  .signupText {
+    font-size: 16px;
+  }
+  .comingSoonText {
+    font-size: 20px;
+  }
+  .wubbleLandingPage {
+    gap: 86px;
+  }
+}
+.backgroundVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  background-size: cover;
+}
